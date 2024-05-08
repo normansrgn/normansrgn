@@ -66,43 +66,9 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
-ProfileMe.dev
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2024 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-buymeacoffee
-BUY ME A COFFEE:
-yourname
-kofi
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
-
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/normansrgn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+<p align="left"> <a href="https://discord.com/users/normansrgn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/normansrgn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 
 ###
