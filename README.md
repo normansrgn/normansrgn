@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I am a beginner frontend developer, proficient in technologies such as HTML, CSS, JavaScript, Gulp, React<br>- ⚡ I’m currently a 3rd year web development student at a technical school and am constantly learning something new.</p>
+<p align="left">I am a frontend developer, proficient in technologies such as HTML, CSS, SCSS JavaScript, TypeScript, Gulp, React<br>- ⚡ I’m currently a 3rd year web development student at a technical school and am constantly learning something new.</p>
 
 ###
 
